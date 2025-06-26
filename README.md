@@ -1,20 +1,41 @@
-# sales-forecasting-variance-analysis-excel
-Excel-based project to forecast monthly footwear sales and analyze performance variance across multiple scenarios.
+# Sales Forecasting & Variance Analysis – Excel-Only Project
 
-## 🔍 Features
-- Scenario-based sales forecasting
-- Seasonal demand adjustment
-- Overperformance & underperformance simulation
-- Forecast vs Actual variance tracking
-- Visual dashboard with slicers and KPIs
+This project simulates a real-world business case of monthly sales forecasting and variance analysis using Microsoft Excel.
 
-## 📁 File Structure
-- `SalesForecasting_2026.xlsx`: Main project file
-- `Screenshots/`: Dashboard and table previews
+## 👨‍💻 Creator:
+**Anish Raj (2025)**  
+B.Com (Hons.), Shaheed Bhagat Singh College  
+Aspiring Finance Professional | Excel & Power BI Learner
 
-## 🧠 Skills Demonstrated
-- Advanced Excel modeling
-- Business forecasting logic
-- Scenario analysis
-- Variance & performance reporting
-- Dashboard design
+---
+
+## 📌 Project Summary
+
+**Company**: Fit Fly Pvt. Ltd.  
+**Products**: Sneakers, Sports Shoes, Formals & Boots, Casual Footwear, Ladies Footwear  
+**Objective**: Forecast 2026 sales, simulate overperformance/underperformance, and conduct variance analysis
+
+---
+
+## 📊 Key Features
+
+- Forecasting revenue, cost, and gross profit (base case)
+- Actual scenarios: Overperformance and Underperformance
+- Variance analysis by month & product
+- Excel-only dashboard with interactive pivot charts & slicers
+- Visual KPIs on performance and profitability
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to view and learn from this project, but redistribution or use without credit is not permitted.
+
+---
+
+## 📩 Contact
+
+For queries or collaboration:
+📧 Email: anishraj7960@gmail.com  
+🌐 GitHub: [Anish-Raj-05](https://github.com/Anish-Raj-05)
