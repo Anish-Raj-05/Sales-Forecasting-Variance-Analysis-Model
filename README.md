@@ -4,16 +4,14 @@ This project simulates a real-world business case of monthly sales forecasting a
 
 ## 👨‍💻 Creator:
 **Anish Raj (2025)**  
-B.Com (Hons.), Shaheed Bhagat Singh College  
-Aspiring Finance Professional | Excel & Power BI Learner
-
+B.Com (Hons.), Shaheed Bhagat Singh Evening College
 ---
 
 ## 📌 Project Summary
 
-**Company**: Fit Fly Pvt. Ltd.  
+**Company**: StrideWalk Pvt. Ltd.  
 **Products**: Sneakers, Sports Shoes, Formals & Boots, Casual Footwear, Ladies Footwear  
-**Objective**: Forecast 2026 sales, simulate overperformance/underperformance, and conduct variance analysis
+**Objective**: Forecast 2026 Sales, Simulate Overperformance/Underperformance, & conduct variance analysis
 
 ---
 
