@@ -29,6 +29,7 @@ B.Com (Hons.), Shaheed Bhagat Singh Evening College
 
 This project is licensed under the [MIT License](./LICENSE).  
 You are free to view and learn from this project, but redistribution or use without credit is not permitted.
+Learning new skills & creating something on your own would feel nice.
 
 ---
 
